@@ -28,7 +28,7 @@
 
     <androidx.appcompat.widget.AppCompatImageView
         android:layout_width="0dp"
-        android:layout_height="wrap_content"
+        android:layout_height="0dp"
         android:id="@+id/imgPhoto"
         android:layout_marginBottom="@dimen/main.margin"
         android:layout_marginTop="@dimen/main.margin"

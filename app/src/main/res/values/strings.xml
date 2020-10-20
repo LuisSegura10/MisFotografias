@@ -3,4 +3,9 @@
     <string name="main_label_gallery">Galería</string>
     <string name="main_label_camera">Cámara</string>
     <string name="main.label.upload">Subir</string>
+    <string name="main_menssage_Question_upload">¿Desea subir esta imagen?</string>
+    <string name="main.message.upload.success">Imagen cargada exitosamente</string>
+    <string name="main.message.down">Listo</string>
+    <string name="main.mesage.upload.error">Error al subir la imagen intente de nuevo</string>
+    <string name="main.menssage.error.notfound">No pudo cargar la imagen</string>
 </resources>
