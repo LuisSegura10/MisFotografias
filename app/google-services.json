@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "315082807055",
+    "firebase_url": "https://fragmentos-5bbd9.firebaseio.com",
+    "project_id": "fragmentos-5bbd9",
+    "storage_bucket": "fragmentos-5bbd9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315082807055:android:3bb970c931eaed0ed6907a",
+        "android_client_info": {
+          "package_name": "com.segura.fragmentos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "315082807055-2df3qspooprp4e3hshfpbf9e6hdt1ber.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzRn_t-PR8RacuqWfUXymxdkEb-qa-Mig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "315082807055-2df3qspooprp4e3hshfpbf9e6hdt1ber.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315082807055:android:d11447bd3d5b68edd6907a",
+        "android_client_info": {
+          "package_name": "com.segura.storage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "315082807055-2df3qspooprp4e3hshfpbf9e6hdt1ber.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzRn_t-PR8RacuqWfUXymxdkEb-qa-Mig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "315082807055-2df3qspooprp4e3hshfpbf9e6hdt1ber.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315082807055:android:8fe7df9a73453d0ad6907a",
+        "android_client_info": {
+          "package_name": "mx.com.softwell.misfotografias"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "315082807055-2df3qspooprp4e3hshfpbf9e6hdt1ber.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzRn_t-PR8RacuqWfUXymxdkEb-qa-Mig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "315082807055-2df3qspooprp4e3hshfpbf9e6hdt1ber.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
